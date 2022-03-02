@@ -1,0 +1,8 @@
+Shell script for the following
+2 programs for each team
+
+1) a) swap 2 numbers b) airthmetic operators
+2) a) sum of digits b) relational operators
+3) matrix addition
+4) a) Read the file, display the contents, display the word count, b) string operators: comaprision
+5) a) escape characters, quoting, wildcards, whitespace, b)boolean operators
